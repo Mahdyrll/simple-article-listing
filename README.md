@@ -47,4 +47,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- GitHub [@your-username](https://github.com/mahdyrll)
+- GitHub [Mahdyrll](https://github.com/mahdyrll)
