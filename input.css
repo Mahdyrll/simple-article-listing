@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'medium';
+        src: url('./fonts/Poppins/Poppins-Medium.ttf');
+    }
+
+    @font-face {
+        font-family: 'semibold';
+        src: url('./fonts/Poppins/Poppins-SemiBold.ttf');
+    }
+}
+
+@layer components {
+    .flex-group {
+        @apply flex justify-around items-center pl-3 sm:justify-evenly sm:px-36 lg:px-[21rem]
+    }
+
+    .flex-text-title {
+        @apply font-semibold text-xl w-[23rem] leading-normal sm:w-auto
+    }
+
+    .flex-image {
+        @apply rounded-xl mr-5 sm:mr-16
+    }
+
+    .flex-date {
+        @apply font-medium text-sm opacity-70 mt-4
+    }
+}
