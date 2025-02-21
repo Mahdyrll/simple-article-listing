@@ -1,7 +1,8 @@
 <h1 align="center">Mahdyar | devChallenges</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-article-listing" target="_blank">Simple Article Listing</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-article-listing" target="_blank">Simple Article Listing</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>. <br><br>
+   ***THIS CHALLENGE IS NOT RESPONSIVE***
 </div>
 
 <div align="center">
